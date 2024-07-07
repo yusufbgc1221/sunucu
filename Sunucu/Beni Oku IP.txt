@@ -1,0 +1,4 @@
+             <IP>
+LyrexLegends.aternos.me:33349
+             <sürüm>
+     1.20.1
